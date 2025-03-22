@@ -65,4 +65,39 @@ A curated list of essential **digital forensics tools** used for investigation, 
 
 ---
 
+# 🌐 Network Forensics Tools   
+
+### 🔎 Packet Sniffers & Traffic Analysis  
+- **[Wireshark](https://www.wireshark.org/)** – GUI-based packet analyzer for real-time network traffic analysis.  
+- **[tcpdump](https://www.tcpdump.org/)** – Command-line packet sniffer for capturing network packets.  
+- **[TShark](https://www.wireshark.org/docs/man-pages/tshark.html)** – CLI version of Wireshark for automated packet analysis.  
+
+### 🕵️ Intrusion Detection & Network Security Monitoring  
+- **[Zeek (Bro)](https://zeek.org/)** – Network traffic analysis tool for security monitoring.  
+- **[Suricata](https://suricata.io/)** – High-performance network IDS, IPS, and NSM tool.  
+- **[Snort](https://www.snort.org/)** – Open-source intrusion detection and prevention system (IDS/IPS).  
+
+### 🛠️ Log Analysis & Network Flow Monitoring  
+- **[Argus](https://openargus.org/)** – Network flow analysis tool for session data monitoring.  
+- **[ELK Stack (Elasticsearch, Logstash, Kibana)](https://www.elastic.co/)** – Log collection and visualization for network logs.  
+- **[Splunk](https://www.splunk.com/)** – Advanced log analysis and SIEM for real-time network forensics.  
+
+### 🔓 Deep Packet Inspection & Protocol Analysis  
+- **[NetworkMiner](https://www.netresec.com/?page=NetworkMiner)** – Passive network traffic analyzer for extracting forensic data.  
+- **[Xplico](https://www.xplico.org/)** – Network forensic tool for reconstructing network sessions.  
+- **[NetFlow Analyzer](https://www.manageengine.com/products/netflow/)** – Monitors and analyzes network traffic using NetFlow data.  
+
+### 📡 Wireless Network Forensics  
+- **[Kismet](https://www.kismetwireless.net/)** – Wireless network sniffer and intrusion detection tool.  
+- **[Aircrack-ng](https://www.aircrack-ng.org/)** – Wi-Fi network security assessment and packet capturing.  
+- **[WiFi Pineapple](https://shop.hak5.org/products/wifi-pineapple)** – Wireless network penetration testing and monitoring.  
+
+### 🖥️ Man-in-the-Middle (MitM) & Traffic Manipulation  
+- **[ettercap](https://www.ettercap-project.org/)** – MitM attack tool for sniffing and network manipulation.  
+- **[MITMf](https://github.com/byt3bl33d3r/MITMf)** – Advanced framework for network traffic interception and manipulation.  
+- **[Bettercap](https://www.bettercap.org/)** – Swiss army knife for network forensics, pentesting, and MitM attacks.  
+
+### 🏴‍☠️ Darknet & Deep Web Analysis  
+- **[Tor](https://www.torproject.org/)** – Anonymity network used for deep web forensics.  
+- **[ONIONScan](https://github.com/s-rah/onionscan)** – Deep web analysis and onion service scanning.  
 
