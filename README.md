@@ -187,3 +187,41 @@ Here’s your **`README.md`** for the **Malware Forensics Tools** repository:
 - **[MalShare](https://malshare.com/)** – Public malware sample repository.  
 - **[URLScan.io](https://urlscan.io/)** – Analyzes suspicious URLs for threats.  
 
+---
+
+# ☁️ Cloud Forensics Tools   
+
+### 🔍 **Cloud Logging & Monitoring**  
+- **[AWS CloudTrail](https://aws.amazon.com/cloudtrail/)** – Tracks API activity and security events in AWS.  
+- **[AWS GuardDuty](https://aws.amazon.com/guardduty/)** – Threat detection for AWS accounts.  
+- **[Google Cloud Logging](https://cloud.google.com/logging/)** – Collects logs from Google Cloud services.  
+- **[Azure Monitor](https://azure.microsoft.com/en-us/products/monitor/)** – Tracks Azure activity and performance.  
+
+### 🗂 **Cloud Storage Forensics**  
+- **[Google Takeout](https://takeout.google.com/)** – Extracts data from Google accounts (Drive, Gmail, etc.).  
+- **[AWS S3 Access Logs](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerLogs.html)** – Monitors object access in AWS S3.  
+- **[Azure Storage Analytics](https://docs.microsoft.com/en-us/azure/storage/common/storage-analytics-logging?tabs=dotnet)** – Logs Azure Storage activity.  
+
+### 💾 **Cloud Instance & Virtual Machine Forensics**  
+- **[Velociraptor](https://www.velociraptor.app/)** – Endpoint forensics and cloud-based threat hunting.  
+- **[AWS EC2 Instance Metadata](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html)** – Retrieves forensic metadata from AWS instances.  
+- **[Google Cloud Compute Disk Snapshots](https://cloud.google.com/compute/docs/disks/create-snapshots)** – Captures VM snapshots for investigation.  
+- **[Azure Disk Forensics](https://learn.microsoft.com/en-us/azure/security/fundamentals/azure-forensic-best-practices)** – Forensic analysis of Azure virtual disks.  
+
+### 📡 **Cloud Network Traffic Analysis**  
+- **[Zeek (Bro)](https://zeek.org/)** – Network monitoring tool for cloud environments.  
+- **[AWS VPC Flow Logs](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html)** – Captures AWS network traffic.  
+- **[Google VPC Flow Logs](https://cloud.google.com/vpc/docs/using-flow-logs)** – Logs network traffic in Google Cloud.  
+- **[Azure Network Watcher](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview)** – Monitors traffic flow in Azure.  
+
+### 🔑 **Cloud Identity & Access Forensics**  
+- **[AWS IAM Access Analyzer](https://aws.amazon.com/iam/access-analyzer/)** – Analyzes permissions and access control.  
+- **[Google Cloud IAM Policy Analyzer](https://cloud.google.com/iam/docs/policy-analyzer)** – Checks permissions and access logs.  
+- **[Azure Active Directory Audit Logs](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-audit-logs)** – Tracks identity-related activities.  
+
+### ⚠️ **Cloud Incident Response**  
+- **[GRR Rapid Response](https://github.com/google/grr)** – Live forensics for cloud instances.  
+- **[AWS Security Hub](https://aws.amazon.com/security-hub/)** – Centralized security alerts for AWS.  
+- **[Google Chronicle](https://chronicle.security/)** – Threat intelligence for Google Cloud.  
+- **[Azure Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel/)** – Cloud-native SIEM for security monitoring.  
+
