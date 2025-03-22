@@ -144,3 +144,46 @@ A curated list of essential **digital forensics tools** used for investigation, 
 - **[SQLite Forensic Browser](https://github.com/sqlitebrowser/sqlitebrowser)** – Investigates SQLite databases from apps like WhatsApp and Telegram.  
 - **[Paraben E3](https://paraben.com/e3-platform/)** – Extracts and analyzes messages from social media and chat apps.  
 
+---
+
+Here’s your **`README.md`** for the **Malware Forensics Tools** repository:  
+
+---
+
+# 🦠 Malware Forensics Tools  
+
+### 🔍 **1. Static Analysis Tools**  
+- **[IDA Pro](https://www.hex-rays.com/)** – Advanced disassembler and decompiler.  
+- **[Ghidra](https://ghidra-sre.org/)** – Open-source reverse engineering framework.  
+- **[Radare2](https://rada.re/n/)** – Binary analysis and reversing tool.  
+- **[PEStudio](https://www.winitor.com/)** – Analyzes Windows executables for malware indicators.  
+- **[Detect It Easy (DIE)](https://github.com/horsicq/Detect-It-Easy)** – Detects compiler and packer information.  
+
+### ⚙️ **2. Dynamic Analysis Tools**  
+- **[Cuckoo Sandbox](https://cuckoosandbox.org/)** – Automated malware sandbox.  
+- **[Any.Run](https://any.run/)** – Interactive cloud-based malware analysis.  
+- **[Joe Sandbox](https://www.joesecurity.org/)** – Advanced malware sandboxing.  
+- **[FakeNet-NG](https://github.com/fireeye/flare-fakenet-ng)** – Simulates network services to capture malware behavior.  
+
+### 💾 **3. Memory Forensics Tools**  
+- **[Volatility](https://github.com/volatilityfoundation/volatility)** – Extracts artifacts from RAM dumps.  
+- **[Rekall](https://github.com/google/rekall)** – Memory forensics and incident response.  
+- **[RAM Capturer](https://www.magnetforensics.com/)** – Captures live RAM data.  
+
+### 🔗 **4. Malware Behavior Analysis**  
+- **[Process Hacker](https://processhacker.sourceforge.io/)** – Monitors and manipulates processes.  
+- **[ProcMon (Process Monitor)](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)** – Tracks system activity in real-time.  
+- **[Regshot](https://sourceforge.net/projects/regshot/)** – Compares registry snapshots.  
+- **[APIMonitor](http://www.rohitab.com/apimonitor)** – Tracks API calls used by malware.  
+
+### 🛠 **5. Code & String Analysis Tools**  
+- **[YARA](https://virustotal.github.io/yara/)** – Rule-based malware classification.  
+- **[Floss](https://github.com/fireeye/flare-floss)** – Extracts obfuscated strings from malware.  
+- **[Binwalk](https://github.com/ReFirmLabs/binwalk)** – Extracts and analyzes firmware.  
+
+### 🌍 **6. Online Malware Analysis Services**  
+- **[VirusTotal](https://www.virustotal.com/)** – Multi-engine malware scanning.  
+- **[Hybrid Analysis](https://www.hybrid-analysis.com/)** – Free cloud-based malware sandbox.  
+- **[MalShare](https://malshare.com/)** – Public malware sample repository.  
+- **[URLScan.io](https://urlscan.io/)** – Analyzes suspicious URLs for threats.  
+
