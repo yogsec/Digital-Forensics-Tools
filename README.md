@@ -148,10 +148,6 @@ A curated list of essential **digital forensics tools** used for investigation, 
 
 ---
 
-Here’s your **`README.md`** for the **Malware Forensics Tools** repository:  
-
----
-
 # 🦠 Malware Forensics Tools  
 
 ### 🔍 **1. Static Analysis Tools**  
