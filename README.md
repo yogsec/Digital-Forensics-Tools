@@ -254,3 +254,23 @@ Here’s your **`README.md`** for the **Malware Forensics Tools** repository:
 - **[Aid4Mail](https://www.aid4mail.com/)** – Convert, search, and analyze email data.  
 - **[Kernel Email Recovery](https://www.nucleustechnologies.com/)** – Recover deleted or corrupted email data.  
 
+---
+
+## 🌟 Let's Connect!
+
+Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
+
+🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
+📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
+🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
+💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
+📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
+🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
+👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/cybersecurity-pentester/](https://www.linkedin.com/in/cybersecurity-pentester/)  
+📧 **Email:** abhinavsingwal@gmail.com
+
+---
+
+## ☕ Buy Me a Coffee
+
+☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
