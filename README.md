@@ -225,3 +225,32 @@ Here’s your **`README.md`** for the **Malware Forensics Tools** repository:
 - **[Google Chronicle](https://chronicle.security/)** – Threat intelligence for Google Cloud.  
 - **[Azure Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel/)** – Cloud-native SIEM for security monitoring.  
 
+---
+
+# 📧 Email Forensics Tools  
+
+### 🔍 Email Header Analysis  
+- **[MHA (Message Header Analyzer)](https://mha.azurewebsites.net/)** – Online tool to analyze email headers and detect phishing.  
+- **[MXToolbox](https://mxtoolbox.com/EmailHeaders.aspx)** – Extract sender IP, SPF, DKIM, and DMARC records.  
+- **[Wireshark](https://www.wireshark.org/)** – Packet capture tool for SMTP, IMAP, and POP3 analysis.  
+
+### 📨 Email Metadata Extraction  
+- **[EmailTracer](https://github.com/sud0nick/EmailTracer)** – Python tool to extract and analyze email headers.  
+- **[ExifTool](https://exiftool.org/)** – Extract metadata from email files (.eml, .msg).  
+- **[Xplico](https://www.xplico.org/)** – Extract emails from network traffic captures.  
+
+### 📜 Log & Email File Analysis  
+- **[Log2Timeline (Plaso)](https://github.com/log2timeline/plaso)** – Create timelines from email and system logs.  
+- **[MailXaminer](https://www.mailxaminer.com/)** – Advanced email forensic investigation tool.  
+- **[Forensic Email Collector](https://www.metaspike.com/forensic-email-collector/)** – Extract and analyze cloud-based emails.  
+
+### 🔑 Phishing & Malicious Email Investigation  
+- **[PhishTool](https://phishtool.com/)** – Identify phishing attempts from email headers.  
+- **[VirusTotal](https://www.virustotal.com/)** – Scan email attachments and URLs for malware.  
+- **[YARA](https://virustotal.github.io/yara/)** – Detect patterns in malicious emails and attachments.  
+
+### 🛠️ Email Data Recovery & Conversion  
+- **[Mail Viewer](https://www.mitec.cz/mailview.html)** – View and extract data from .eml and .msg files.  
+- **[Aid4Mail](https://www.aid4mail.com/)** – Convert, search, and analyze email data.  
+- **[Kernel Email Recovery](https://www.nucleustechnologies.com/)** – Recover deleted or corrupted email data.  
+
