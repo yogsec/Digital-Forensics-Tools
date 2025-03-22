@@ -34,3 +34,39 @@ A curated list of essential **digital forensics tools** used for investigation, 
 - **[CAINE (Computer Aided Investigative Environment)](https://www.caine-live.net/)** – Live Linux forensic distro with built-in tools.  
 
 ---
+
+Here's a structured `README.md` for your **Memory Forensics Tools** repository:  
+
+---
+
+# 🧠 Memory Forensics Tools  
+
+### 🔍 Memory Dumping Tools  
+- **[DumpIt](https://www.comae.com/)** – One-click RAM dumping tool for Windows.  
+- **[WinPmem](https://github.com/Velocidex/WinPmem)** – Windows memory acquisition tool.  
+- **[LiME](https://github.com/504ensicsLabs/LiME)** – Extracts live memory from Linux systems.  
+- **[AVML](https://github.com/microsoft/avml)** – Memory acquisition for Linux & Azure VMs.  
+- **[OSForensics](https://www.osforensics.com/)** – RAM imaging and forensic analysis.  
+
+### 🔬 Memory Analysis Tools  
+- **[Volatility](https://github.com/volatilityfoundation/volatility)** – Open-source framework for memory analysis.  
+- **[Volatility 3](https://github.com/volatilityfoundation/volatility3)** – Python 3-based version with enhanced support.  
+- **[Rekall](https://github.com/google/rekall)** – Memory forensic framework from Google.  
+- **[MemProcFS](https://github.com/ufrisk/MemProcFS)** – Mounts memory dumps as a virtual file system.  
+- **[Redline](https://www.fireeye.com/services/freeware/redline.html)** – Analyzes memory for malware infections.  
+
+### 🦠 Malware & Process Analysis  
+- **[Malfind](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference#malfind)** – Detects malicious code injections.  
+- **[YARA](https://github.com/VirusTotal/yara)** – Signature-based malware detection in RAM.  
+- **[Strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)** – Extracts readable text from memory dumps.  
+- **[PE-sieve](https://github.com/hasherezade/pe-sieve)** – Detects injected malicious code.  
+- **[HollowsHunter](https://github.com/hasherezade/hollows_hunter)** – Identifies process hollowing and malware injections.  
+
+### 📊 Memory Timeline & Log Analysis  
+- **[Log2Timeline (Plaso)](https://github.com/log2timeline/plaso)** – Creates forensic timelines from memory artifacts.  
+- **[Memtriage](https://github.com/SwiftOnSecurity/Memtriage)** – Rapid triage tool for incident response.  
+- **[Efilter](https://github.com/google/efilter)** – Query and analyze memory artifacts efficiently.  
+
+---
+
+
