@@ -101,3 +101,46 @@ A curated list of essential **digital forensics tools** used for investigation, 
 - **[Tor](https://www.torproject.org/)** – Anonymity network used for deep web forensics.  
 - **[ONIONScan](https://github.com/s-rah/onionscan)** – Deep web analysis and onion service scanning.  
 
+---
+
+## 📱 **Mobile Forensics Tools**  
+
+### 🔍 **Mobile Data Extraction & Analysis**  
+- **[Cellebrite UFED](https://cellebrite.com/)** – Industry-standard tool for extracting data from mobile devices.  
+- **[Magnet AXIOM](https://www.magnetforensics.com/)** – Mobile forensic analysis and recovery tool.  
+- **[Oxygen Forensic Suite](https://www.oxygen-forensic.com/)** – Mobile data extraction, call logs, and app analysis.  
+- **[XRY](https://www.msab.com/products/xry/)** – Mobile forensics tool for data extraction and decoding.  
+- **[MOBILedit Forensic](https://www.mobiledit.com/forensic)** – Mobile device investigation with logical and physical extraction.  
+- **[Belkasoft Evidence Center](https://belkasoft.com/ec)** – Extracts data from iOS, Android, and cloud services.  
+
+### 🔧 **Android Forensics**  
+- **[ADB (Android Debug Bridge)](https://developer.android.com/studio/command-line/adb)** – Command-line tool for interacting with Android devices.  
+- **[Andriller](https://www.andriller.com/)** – Android pattern lock cracker and data extraction.  
+- **[AFLogical](https://github.com/nowsecure/AFLogical)** – Open-source tool for logical data extraction from Android.  
+- **[Frida](https://frida.re/)** – Dynamic instrumentation tool for Android reverse engineering.  
+- **[Drozer](https://labs.withsecure.com/tools/drozer)** – Security testing framework for Android apps.  
+- **[Apktool](https://github.com/iBotPeaches/Apktool)** – Reverse engineer APK files.  
+
+### 🍏 **iOS Forensics**  
+- **[iLEAPP (iOS Logs, Events, And Properties Parser)](https://github.com/abrignoni/iLEAPP)** – Extracts logs and artifacts from iOS devices.  
+- **[Checkm8 / Checkra1n](https://checkra.in/)** – Jailbreaking tool for forensic extraction.  
+- **[Elcomsoft iOS Forensic Toolkit](https://www.elcomsoft.com/eift.html)** – Extracts data from iOS devices, even locked ones.  
+- **[iExplorer](https://www.macroplant.com/iexplorer)** – Browse iOS file systems without jailbreaking.  
+- **[Cydia Impactor](http://www.cydiaimpactor.com/)** – Install apps and exploit sideloading vulnerabilities.  
+
+### 🌐 **Cloud & Online Data Extraction**  
+- **[Oxygen Forensic Cloud Extractor](https://www.oxygen-forensic.com/en/cloud-extractor)** – Extracts mobile data from cloud accounts.  
+- **[Google Takeout](https://takeout.google.com/)** – Download data from Google services (Gmail, Drive, etc.).  
+- **[iCloudExtractor](https://www.elcomsoft.com/eppb.html)** – Extracts backups from iCloud.  
+
+### 📶 **SIM & IMEI Forensics**  
+- **[SIM Cloning Tool](https://github.com/srdja/SIM-Tools)** – Clone and analyze SIM card data.  
+- **[Oxygen SIM Detective](https://www.oxygen-forensic.com/en/products/oxygen-forensic-detective)** – Extracts data from SIM cards.  
+- **[MOBILedit SIM Clone](https://www.mobiledit.com/sim-clone)** – Copies SIM data and recovers deleted messages.  
+
+### 🔍 **Mobile App & Messaging Analysis**  
+- **[WhatsApp Viewer](https://github.com/andreas-mausch/whatsapp-viewer)** – Extracts WhatsApp messages from databases.  
+- **[UFED Physical Analyzer](https://www.cellebrite.com/en/ufed-physical-analyzer/)** – Analyzes mobile apps and messaging platforms.  
+- **[SQLite Forensic Browser](https://github.com/sqlitebrowser/sqlitebrowser)** – Investigates SQLite databases from apps like WhatsApp and Telegram.  
+- **[Paraben E3](https://paraben.com/e3-platform/)** – Extracts and analyzes messages from social media and chat apps.  
+
