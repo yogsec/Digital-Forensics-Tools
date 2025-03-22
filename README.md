@@ -35,10 +35,6 @@ A curated list of essential **digital forensics tools** used for investigation, 
 
 ---
 
-Here's a structured `README.md` for your **Memory Forensics Tools** repository:  
-
----
-
 # 🧠 Memory Forensics Tools  
 
 ### 🔍 Memory Dumping Tools  
