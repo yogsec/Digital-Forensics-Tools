@@ -32,6 +32,7 @@
 - **[Foremost](https://foremost.sourceforge.net/)** – Recover deleted files based on headers, footers, and data structures.  
 - **[Scalpel](https://github.com/sleuthkit/scalpel)** – File carving tool for deleted file recovery.  
 - **[Recuva](https://www.ccleaner.com/recuva)** – User-friendly file recovery software.  
+- **[Frame Witness](https://framewitness.pages.dev/)** – Windows photo and video recovery and examination with source offsets and SHA-256; a free account provides a limited quick scan and a paid licence unlocks full scans.
 
 ### Live Disk Analysis  
 - **[Mount Image Pro](https://www.mountimage.com/)** – Mount disk images for live forensic analysis.  
